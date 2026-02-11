@@ -56,9 +56,9 @@ Each project includes:
 - Improvements roadmap
 
 ## 🔗 Links
-- LinkedIn: (add)
-- Portfolio Website: (add)
-- CV: (add)
+- LinkedIn: www.linkedin.com/in/afnan-arshad
+- Portfolio Website: 
+
 
 ## 📜 License
 MIT (unless stated otherwise in a project)
