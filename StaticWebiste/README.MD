@@ -6,7 +6,7 @@ This project is the first step in my portfolio journey (from beginner to advance
 ---
 
 ## 🌐 Live Demo
-- Demo: *(add GitHub Pages / Netlify link here)*
+- Demo: **
 
 ## 🖼️ Screenshots
 Screenshots are available in: `docs/screenshots/`
