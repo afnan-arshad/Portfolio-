@@ -1,71 +1,49 @@
-# Static Business Website — HTML5 + Tailwind CSS
+# CSS Learning Playground 🎨
 
-A modern, mobile-first **static business website** built with **HTML5**, **CSS3**, and **Tailwind CSS**.  
-This project is the first step in my portfolio journey (from beginner to advanced), focused on clean UI, responsive design, and professional documentation.
-
----
-
-## 🌐 Live Demo
-- Demo: **
-
-## 🖼️ Screenshots
-Screenshots are available in: `docs/screenshots/`
+This repository contains my **CSS learning journey** with small example projects, practice exercises, and layout experiments.  
+I’m using it to build strong fundamentals in CSS and gradually move toward **responsive, modern UI designs**.
 
 ---
 
-## 🎯 Project Objective
-Build a real-world style business website layout to demonstrate:
-- Responsive layout and navigation patterns  
-- Tailwind CSS utility-first styling  
-- Clean, accessible HTML structure  
-- Multi-page site organization with consistent design
+## 📌 What’s Inside
+
+- ✅ CSS basics (selectors, box model, typography)
+- ✅ Layout practice (Flexbox, Grid)
+- ✅ Responsive design (media queries, mobile-first)
+- ✅ Reusable UI components (buttons, cards, navbars)
+- ✅ Mini projects that apply concepts in real examples
 
 ---
 
-## ✅ Key Features
-- Responsive navigation bar (desktop + mobile)
-- Hero section with clear call-to-action
-- Services section (card layout)
-- Testimonials / reviews section
-- Pricing section (simple and readable)
-- Contact page with form UI (static)
-- Footer with quick links and social placeholders
-- Mobile-first, fully responsive design
+## 🎯 Purpose of This Repo
+
+The goal is to:
+- practice CSS consistently
+- document my progress with clear examples
+- build a foundation for real portfolio projects using Tailwind/React later
 
 ---
 
-## 🧰 Tech Stack
-- **HTML5**
-- **CSS3**
-- **Tailwind CSS**
+## 📁 Repository Structure
 
----
-
-## 📄 Pages
-- `index.html` — Home
-- `about.html` — About
-- `services.html` — Services
-- `contact.html` — Contact
-
----
-
-## 📁 Project Structure
 ```text
-static-business-website-tailwind/
-│── index.html
-│── about.html
-│── services.html
-│── contact.html
+css-learning-playground/
+│── examples/
+│   ├── 01-selectors/
+│   ├── 02-box-model/
+│   ├── 03-typography/
+│   ├── 04-flexbox/
+│   ├── 05-grid/
+│   └── 06-responsive/
+│
+│── mini-projects/
+│   ├── landing-page/
+│   ├── pricing-card/
+│   ├── navbar-hero/
+│   └── portfolio-section/
+│
 │── assets/
 │   ├── images/
 │   └── icons/
-│── css/
-│   └── input.css
-│── dist/
-│   └── output.css
-│── docs/
-│   ├── screenshots/
-│   └── wireframe.png
+│
 │── README.md
-│── tailwind.config.js
-│── package.json
