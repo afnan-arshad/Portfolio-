@@ -1,4 +1,4 @@
-# Static Business Website — HTML5 + Tailwind CSS
+# Static Business Website — HTML5 +  CSS
 
 A modern, mobile-first **static business website** built with **HTML5**, **CSS3**, and **Tailwind CSS**.  
 This project is the first step in my portfolio journey (from beginner to advanced), focused on clean UI, responsive design, and professional documentation.
