@@ -1,0 +1,29 @@
+nav {
+	    background-color: black;
+        color: white;
+		padding: 10px;
+	}
+
+nav a {
+		color: white;
+		text-decoration: none;
+		margin-right: 15px;
+	}
+
+p{
+	color: orange;
+	font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+/* we are putting hexadecimal value for color*/
+#secondParagraph{
+					color: #C12229;
+					font-size: 10px;
+                    font-family: Verdana ;
+				}
+
+H1{
+    color: blueviolet;
+    font-size: 80px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+}
